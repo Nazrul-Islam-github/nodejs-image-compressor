@@ -1,0 +1,15 @@
+#show-image img{
+    border :2px solid red;
+    width: 250px !important;
+    height: 250px !important;
+}
+
+.container form{
+   
+position: relative;
+}
+
+
+body{
+    background-color: yellow;
+}
